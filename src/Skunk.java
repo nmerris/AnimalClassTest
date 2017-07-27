@@ -9,7 +9,7 @@ public class Skunk extends Animal {
 	 */
 
 	public Skunk() {
-		super();
+//		super();
 		System.out.println("A skunk is born.");
 	}
 	

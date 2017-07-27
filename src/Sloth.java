@@ -9,7 +9,7 @@ public class Sloth extends Animal {
 	 */
 	
 	public Sloth() {
-		super();
+//		super();
 		System.out.println("A sloth is born, probably in a tree.");
 	}
 	
